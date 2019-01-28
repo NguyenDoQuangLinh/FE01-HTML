@@ -2,4 +2,4 @@
 
 ☞ Please don't change code on master branch.
 
-☞ Set name of yout branch by format: exercise's_name-first_name_last_name (don't contain space, don't using uppercase).
+☞ Checkout new branch by format: firstname_lastname → Checkout a new branch from firstname_lastname branch with name is exercise name (example: layout_building) → push your exercise on this branch.
